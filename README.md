@@ -8,7 +8,7 @@ Convention:  `.txt.(uc|uppercase)`
 ## Install
 
 ```
-npm install --save docpad-plugin-yourpluginname
+docpad install yourpluginname
 ```
 
 
