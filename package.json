@@ -3,18 +3,35 @@
   "version": "2.0.0",
   "description": "DocPad plugin that adds the ability to render Something to Something Else",
   "homepage": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname",
+  "license": {
+    "type": "MIT"
+  },
   "keywords": [
     "docpad",
     "docpad-plugin",
     "something",
     "somethingelse"
   ],
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "npmdownloads": true,
+    "david": true,
+    "daviddev": true,
+    "gittip": "docpad",
+    "flattr": "344188/balupton-on-Flattr",
+    "paypal": "QB8GQPZAH84N6",
+    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
+    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
+  },
   "author": "Copyright holders name <copyright holder's email> (copyright holder's website url)",
   "maintainers": [
-    "Your name <your email> (your github url)"
+    "Your name <your email> (your github url)",
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
-    "balupton (https://github.com/balupton)"
+    "balupton (https://github.com/balupton)",
+    "RobLoach (https://github.com/RobLoach)"
   ],
   "bugs": {
     "url": "https://github.com/docpad/docpad-plugin-yourpluginname/issues"
@@ -31,27 +48,13 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "coffee-script": "~1.6.3",
+    "coffee-script": "^1.9.0",
     "docpad": "6",
-    "projectz": "~0.3.13"
+    "projectz": "^0.4.2"
   },
   "main": "./out/yourpluginname.plugin.js",
   "scripts": {
     "test": "node ./out/yourpluginname.test.js"
-  },
-  "license": {
-    "type": "MIT"
-  },
-  "badges": {
-    "travis": true,
-    "npm": true,
-    "david": true,
-    "daviddev": true,
-    "gittip": "docpad",
-    "flattr": "344188/balupton-on-Flattr",
-    "paypal": "QB8GQPZAH84N6",
-    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
-    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
   },
   "cakeConfiguration": {
     "COFFEE_SRC_PATH": "src"
