@@ -22,11 +22,16 @@ Convention:  `.txt.(uc|uppercase)`
 
 
 
+<!-- INSTALL/ -->
+
 ## Install
 
-```
+``` bash
 docpad install yourpluginname
 ```
+
+<!-- /INSTALL -->
+
 
 
 <!-- HISTORY/ -->
