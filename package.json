@@ -3,9 +3,7 @@
   "version": "2.0.0",
   "description": "DocPad plugin that adds the ability to render Something to Something Else",
   "homepage": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname",
-  "license": {
-    "type": "MIT"
-  },
+  "license": "MIT",
   "keywords": [
     "docpad",
     "docpad-plugin",
@@ -22,7 +20,7 @@
     "flattr": "344188/balupton-on-Flattr",
     "paypal": "QB8GQPZAH84N6",
     "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
-    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
+    "wishlist": "https://amzn.com/w/2F8TXKSNAFG4V"
   },
   "author": "Copyright holders name <copyright holder's email> (copyright holder's website url)",
   "maintainers": [
