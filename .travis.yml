@@ -20,5 +20,7 @@ after_success:
 - eval "$(curl -s https://raw.githubusercontent.com/balupton/awesome-travis/master/scripts/node-publish.bash)"
 notifications:
   slack:
-    secure: ahThlf5v8yFulqmSsU6YqsLcB7fh778BFfxLxGv7w9DJ1dyUfdPAOCt+KeTpGDuxB98Ank3Al50h4LARqVas9+obdA/Z3+i1ACb10b5khLbFcW3rkTIB3gLgFEWO+OZJ7fCwG0gzVpZFZ9xR4pkOjvOVPd6zYrSqPMM27Q21LF4=
-FdKUMbAi7BCv2xgE=
+    secure: cKPqZHLuewAxu5/6k0maiZPWIvSiWevlcNvbOAQkkFHOAmaOf5nLo3bGXbaeuaYQHTl4okijKjJdPvn2xRta9a7TmXxuFdkP6jnfBrWvW2bt5qcL45oMhSUIA1PNg7WfTY3ux2VkmG0PqQ6LBTTIVeYsfTK4N9iqrcIF7E0MBpQ=
+  email:
+    recipients:
+      secure: wjAM8B6VZQvUZ33qmFK3Tu8uV1KiWU6FE9zsK9sZx1LA8w0dnIZA0fN0fDOt7YN9Ca6+XJOgQePuQBuqJ1bXFcdy/j8wH6EGYFWRn09WHCFdNxfzSzx7BK5nxNT1mPteQkWlR2L78+jKeawnSMkxrMjiXjOKUk3cwjvMVzZyndk=

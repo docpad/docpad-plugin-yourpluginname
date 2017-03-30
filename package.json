@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-yourpluginname",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "DocPad plugin that adds the ability to render Something to Something Else",
   "homepage": "https://github.com/docpad/docpad-plugin-yourpluginname",
   "license": "MIT",
@@ -84,12 +84,9 @@
   "main": "es5/yourpluginname.plugin.js",
   "dependencies": {},
   "devDependencies": {
-    "assert-helpers": "^4.5.0",
     "coffee-script": "^1.12.4",
     "coffeelint": "^1.16.0",
     "docpad": "^6.79.4",
-    "joe": "^2.0.2",
-    "joe-reporter-console": "^2.0.1",
     "projectz": "^1.3.2"
   },
   "peerDependencies": {
