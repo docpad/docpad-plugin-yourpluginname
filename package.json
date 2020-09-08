@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-yourpluginname",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "DocPad plugin that adds the ability to render Something to Something Else",
   "homepage": "https://github.com/docpad/docpad-plugin-yourpluginname",
   "license": "MIT",
